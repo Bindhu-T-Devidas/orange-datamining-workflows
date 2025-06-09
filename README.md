@@ -43,6 +43,22 @@ This project helped me:
 
 ---
 
+## 🖼️ Orange Workflow Snapshots
+
+### 🔹 Image 1 – Classification (Naive Bayes, Logistic Regression, Random Forest)
+![img1](./Images/img1.png)
+
+### 🔹 Image 2 – Clustering (K-Means, Hierarchical)
+![img2](./Images/img2.png)
+
+### 🔹 Image 3 – Time Series Smoothing (Sliding Window)
+![img3](./Images/img3.png)
+
+### 🔹 Image 4 – ARIMA Time Series Forecasting
+![img4](./Images/img4.png)
+
+---
+
 ## 🧑‍💻 Author
 
 **Bindu T D**  
